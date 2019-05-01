@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1495720332 source:/home/pedro/Documents/projetofinal/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"trips.h"
+	"argtest.h"
+	"graphicmode.h"
+
+1494424718 /home/pedro/Documents/projetofinal/bikes.h
+
+1495720332 source:/home/pedro/Documents/projetofinal/argtest.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"argtest.h"
+
+1495720332 /home/pedro/Documents/projetofinal/argtest.h
+
+1495720332 /home/pedro/Documents/projetofinal/trips.h
+	"stations.h"
+
+1495720332 /home/pedro/Documents/projetofinal/stations.h
+
+1495720332 source:/home/pedro/Documents/projetofinal/trips.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trips.h"
+	"argtest.h"
+	"listings.h"
+
+1495720332 source:/home/pedro/Documents/projetofinal/textmode.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trips.h"
+	"argtest.h"
+	"listings.h"
+
+1495720332 source:/home/pedro/Documents/projetofinal/listfill.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trips.h"
+	"listings.h"
+
+1495720332 source:/home/pedro/Documents/projetofinal/graphicmode.c
+	"graphicmode.h"
+
+1495720332 /home/pedro/Documents/projetofinal/listings.h
+	"trips.h"
+	<math.h>
+
+1495720332 source:/home/pedro/Documents/projetofinal/listings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trips.h"
+	"argtest.h"
+	"listings.h"
+	"graphicmode.h"
+
+1495739895 /home/pedro/Documents/projetofinal/graphicmode.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"trips.h"
+	"listings.h"
+
